@@ -1,0 +1,12 @@
+{
+  "name": "Vite Chrome Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_icon": {
+      "128": "assets/vue.svg"
+    },
+    "default_title": "Popup",
+    "default_popup": "index.html"
+  }
+}
